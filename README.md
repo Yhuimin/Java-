@@ -8,7 +8,7 @@ Java课程作业项目仓库
 试验方法
     创建4个类，前3个类都需要定义该类的属性和方法，用set()方法来设置对象中的数据成员值、get()方法来获取对象中的数据成员值，主类中需要创建3个对象，然后对象给变量赋值，并通过set()方法调用实参，最后通过调用show()方法输出显示结果	   
 核心方法/伪代码
-	```
+```
   public class CPU {
 	//定义属性	
 	private int speed;
@@ -80,9 +80,9 @@ Java课程作业项目仓库
 		pc.setCPU(cpu);
 		pc.setHardDisk(disk);
 		pc.show();
-    ```
+
 实验结果
-	 ![图片](http://note.youdao.com/yws/public/resource/72aa84bd3a5d198f1794c36f35956f84/xmlnote/WEBRESOURCE0ecaa4d00568afcef6a040cfd437cc3d/13)
+	![img](http://note.youdao.com/yws/public/resource/72aa84bd3a5d198f1794c36f35956f84/xmlnote/WEBRESOURCE0ecaa4d00568afcef6a040cfd437cc3d/13)
 实验感想
     通过这次实验，我更加了解了类的成员、变量以及构造方法的使用，还有4个访问权限符的作用
     
