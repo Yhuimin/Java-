@@ -106,8 +106,8 @@
 		pc.show();
 ```
 ### 实验结果
-·············
-	![img](http://note.youdao.com/yws/public/resource/72aa84bd3a5d198f1794c36f35956f84/xmlnote/WEBRESOURCE0ecaa4d00568afcef6a040cfd437cc3d/13)
+·
+![img](http://note.youdao.com/yws/public/resource/72aa84bd3a5d198f1794c36f35956f84/xmlnote/WEBRESOURCE0ecaa4d00568afcef6a040cfd437cc3d/13)
 	
 ### 实验感想
 
